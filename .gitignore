@@ -1,0 +1,10 @@
+.DS_Store
+index.backup.html
+index.html.save
+style.backup.css
+models/AND@R21 (1).glb
+models/*.glb
+!models/belka-3.glb
+
+!models/android.glb
+!models/AND@R21 (1).glb
