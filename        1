@@ -1,0 +1,85 @@
+ .gitignore                         |   7 [32m+[m
+ README.md                          |  23 [32m++[m
+ assets/gallery/gallery-01.png      | Bin [31m0[m -> [32m2644840[m bytes
+ assets/gallery/gallery-02.png      | Bin [31m0[m -> [32m3147906[m bytes
+ assets/gallery/gallery-03.png      | Bin [31m0[m -> [32m2968053[m bytes
+ assets/gallery/gallery-04.png      | Bin [31m0[m -> [32m4010091[m bytes
+ assets/gallery/gallery-05.png      | Bin [31m0[m -> [32m3429068[m bytes
+ assets/gallery/gallery-06.png      | Bin [31m0[m -> [32m3494788[m bytes
+ assets/gallery/gallery-07.png      | Bin [31m0[m -> [32m3040173[m bytes
+ assets/gallery/gallery-08.png      | Bin [31m0[m -> [32m2979016[m bytes
+ assets/gallery/gallery-09.png      | Bin [31m0[m -> [32m4389907[m bytes
+ assets/gallery/gallery-10.png      | Bin [31m0[m -> [32m1937413[m bytes
+ assets/gallery/gallery-11.png      | Bin [31m0[m -> [32m1666163[m bytes
+ assets/gallery/gallery-12.png      | Bin [31m0[m -> [32m1684926[m bytes
+ assets/gallery/gallery-13.png      | Bin [31m0[m -> [32m1724740[m bytes
+ assets/gallery/gallery-14.png      | Bin [31m0[m -> [32m1631073[m bytes
+ assets/gallery/gallery-15.png      | Bin [31m0[m -> [32m668752[m bytes
+ assets/gallery/gallery-16.png      | Bin [31m0[m -> [32m1410266[m bytes
+ assets/gallery/gallery-17.png      | Bin [31m0[m -> [32m660989[m bytes
+ assets/gallery/gallery-18.png      | Bin [31m0[m -> [32m735528[m bytes
+ assets/gallery/gallery-19.png      | Bin [31m0[m -> [32m2139975[m bytes
+ assets/gallery/gallery-20.png      | Bin [31m0[m -> [32m1874958[m bytes
+ assets/gallery/infographic-21.png  | Bin [31m0[m -> [32m2513931[m bytes
+ assets/gallery/infographic-22.png  | Bin [31m0[m -> [32m1937413[m bytes
+ assets/gallery/infographic-23.png  | Bin [31m0[m -> [32m1476177[m bytes
+ assets/gallery/infographic-24.png  | Bin [31m0[m -> [32m980787[m bytes
+ assets/gallery/infographic-25.png  | Bin [31m0[m -> [32m899810[m bytes
+ assets/gallery/infographic-26.png  | Bin [31m0[m -> [32m618707[m bytes
+ assets/gallery/infographic-27.png  | Bin [31m0[m -> [32m2075159[m bytes
+ assets/gallery/infographic-28.png  | Bin [31m0[m -> [32m3977767[m bytes
+ assets/gallery/infographic-29.png  | Bin [31m0[m -> [32m2345610[m bytes
+ assets/gallery/infographic-30.png  | Bin [31m0[m -> [32m3013221[m bytes
+ assets/gallery/infographic-31.png  | Bin [31m0[m -> [32m2058229[m bytes
+ assets/gallery/infographic-32.png  | Bin [31m0[m -> [32m2675363[m bytes
+ assets/gallery/infographic-33.png  | Bin [31m0[m -> [32m2440581[m bytes
+ assets/gallery/infographic-34.png  | Bin [31m0[m -> [32m924094[m bytes
+ assets/gallery/infographic-35.png  | Bin [31m0[m -> [32m3016054[m bytes
+ assets/gallery/infographic-36.jpg  | Bin [31m0[m -> [32m107669[m bytes
+ assets/hero-dmitry.jpg             | Bin [31m0[m -> [32m261630[m bytes
+ assets/mini-fan-creative.png       | Bin [31m0[m -> [32m2277300[m bytes
+ assets/rollup-mirex-01.png         | Bin [31m0[m -> [32m2639551[m bytes
+ assets/rollup-mirex-02.png         | Bin [31m0[m -> [32m2432651[m bytes
+ assets/rollup-mirex-03.png         | Bin [31m0[m -> [32m2753553[m bytes
+ assets/sex-fantasy-packaging.png   | Bin [31m0[m -> [32m2630675[m bytes
+ case-mirex-reference.png           | Bin [31m0[m -> [32m2298869[m bytes
+ index.html                         | 531 [32m+++++++++++++++++++++++++++++++++++++[m
+ mirex-mandarin/card-1.png          | Bin [31m0[m -> [32m1462832[m bytes
+ mirex-mandarin/card-2.png          | Bin [31m0[m -> [32m966491[m bytes
+ mirex-mandarin/card-3.png          | Bin [31m0[m -> [32m1300086[m bytes
+ mirex-mandarin/card-4.png          | Bin [31m0[m -> [32m794123[m bytes
+ mirex-mandarin/card-5.png          | Bin [31m0[m -> [32m997541[m bytes
+ mirex-mandarin/card-6.png          | Bin [31m0[m -> [32m914485[m bytes
+ mirex-mandarin/card-7.png          | Bin [31m0[m -> [32m1905630[m bytes
+ mirex-mandarin/card-8.png          | Bin [31m0[m -> [32m1387033[m bytes
+ mirex-mandarin/card-9.png          | Bin [31m0[m -> [32m587900[m bytes
+ mirex-mandarin/cover.png           | Bin [31m0[m -> [32m1043183[m bytes
+ models/belka-3.glb                 | Bin [31m0[m -> [32m12615088[m bytes
+ style.css                          | 473 [32m+++++++++++++++++++++++++++++++++[m
+ videos/AI-cover-01.mp4             | Bin [31m0[m -> [32m3779870[m bytes
+ videos/AI-cover-02.mp4             | Bin [31m0[m -> [32m5934853[m bytes
+ videos/AI-cover-03.mp4             | Bin [31m0[m -> [32m9076135[m bytes
+ videos/AI-cover-04.mp4             | Bin [31m0[m -> [32m13178326[m bytes
+ videos/AI-new-01-fan.mp4           | Bin [31m0[m -> [32m54981884[m bytes
+ videos/AI-new-02-steamer-black.mp4 | Bin [31m0[m -> [32m9058325[m bytes
+ videos/AI-new-03-steamer-white.mp4 | Bin [31m0[m -> [32m9840201[m bytes
+ videos/AI-video-05.mp4             | Bin [31m0[m -> [32m7985998[m bytes
+ videos/AI-video-06.mp4             | Bin [31m0[m -> [32m9840201[m bytes
+ videos/AI-video-07.mp4             | Bin [31m0[m -> [32m6494389[m bytes
+ videos/IMG_8842.mp4                | Bin [31m0[m -> [32m92655[m bytes
+ videos/IMG_8843.mp4                | Bin [31m0[m -> [32m1093315[m bytes
+ videos/IMG_8844.mp4                | Bin [31m0[m -> [32m69376[m bytes
+ videos/IMG_8848.mp4                | Bin [31m0[m -> [32m289088[m bytes
+ wb-covers/wild1858 1.png           | Bin [31m0[m -> [32m1494979[m bytes
+ wb-covers/wild1858 11.png          | Bin [31m0[m -> [32m1669748[m bytes
+ wb-covers/wild1858 12.png          | Bin [31m0[m -> [32m1500835[m bytes
+ wb-covers/wild1858 14.png          | Bin [31m0[m -> [32m1626532[m bytes
+ wb-covers/wild1858 16.png          | Bin [31m0[m -> [32m1577432[m bytes
+ wb-covers/wild1858 19.png          | Bin [31m0[m -> [32m1732499[m bytes
+ wb-covers/wild1858 2.png           | Bin [31m0[m -> [32m1854837[m bytes
+ wb-covers/wild1858 24.png          | Bin [31m0[m -> [32m1381298[m bytes
+ wb-covers/wild1858 26.png          | Bin [31m0[m -> [32m1564578[m bytes
+ wb-covers/wild1858 27.png          | Bin [31m0[m -> [32m1650681[m bytes
+ wb-covers/wild1858 28.png          | Bin [31m0[m -> [32m1008675[m bytes
+ wb-covers/wild1858 29.png          | Bin [31m0[m -> [32m1697915[m bytes
+ 84 files changed, 1034 insertions(+)
