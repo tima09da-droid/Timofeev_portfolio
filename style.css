@@ -1289,3 +1289,13 @@ h1,
   align-items:center!important;
   justify-content:center!important;
 }
+
+@media(max-width:800px){
+  .motion-play{
+    width:18px!important;
+    height:18px!important;
+    min-width:18px!important;
+    min-height:18px!important;
+    font-size:5px!important;
+  }
+}
